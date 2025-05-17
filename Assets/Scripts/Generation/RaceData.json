@@ -1,0 +1,33 @@
+{
+  "generic": {
+    "maleNames": [ "Alex", "Max", "Leo" ],
+    "femaleNames": [ "Luna", "Mia", "Zoe" ],
+    "reasons": [ "Needs help", "Starting a business", "Lost everything" ]
+  },
+  "races": [
+    {
+      "raceName": "Cat",
+      "maleNames": [ "Whiskers", "Mittens" ],
+      "femaleNames": [ "Meowla", "Clawdia" ],
+      "reasons": [ "Buying yarn", "Opening a cat café" ],
+      "moneyMin": 10,
+      "moneyMax": 50,
+      "profitMin": 20,
+      "profitMax": 30,
+      "daysMin": 3,
+      "daysMax": 6
+    },
+    {
+      "raceName": "Dog",
+      "maleNames": [ "Barkley", "Spot" ],
+      "femaleNames": [ "Pawla", "Barka" ],
+      "reasons": [ "Bone trade", "Guard training school" ],
+      "moneyMin": 30,
+      "moneyMax": 100,
+      "profitMin": 25,
+      "profitMax": 40,
+      "daysMin": 5,
+      "daysMax": 7
+    }
+  ]
+}
